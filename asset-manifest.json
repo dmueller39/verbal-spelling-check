@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/verbal-spelling-check/static/js/app.d60d4a58.chunk.js",
+    "app.js.map": "/verbal-spelling-check/static/js/app.d60d4a58.chunk.js.map",
+    "runtime~app.js": "/verbal-spelling-check/static/js/runtime~app.42b329e1.js",
+    "runtime~app.js.map": "/verbal-spelling-check/static/js/runtime~app.42b329e1.js.map",
+    "static/js/2.9af91240.chunk.js": "/verbal-spelling-check/static/js/2.9af91240.chunk.js",
+    "static/js/2.9af91240.chunk.js.map": "/verbal-spelling-check/static/js/2.9af91240.chunk.js.map",
+    "favicon-16.png": "/verbal-spelling-check/favicon-16.png",
+    "favicon-32.png": "/verbal-spelling-check/favicon-32.png",
+    "favicon.ico": "/verbal-spelling-check/favicon.ico",
+    "index.html": "/verbal-spelling-check/index.html",
+    "manifest.json": "/verbal-spelling-check/manifest.json",
+    "serve.json": "/verbal-spelling-check/serve.json",
+    "static/js/2.9af91240.chunk.js.LICENSE.txt": "/verbal-spelling-check/static/js/2.9af91240.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.42b329e1.js",
+    "static/js/2.9af91240.chunk.js",
+    "static/js/app.d60d4a58.chunk.js"
+  ]
+}
